@@ -1,0 +1,8 @@
+com/chat_application/chat_application/controller/ChatController.class
+com/chat_application/chat_application/service/ChatService.class
+com/chat_application/chat_application/model/ChatMessage$MessageType.class
+com/chat_application/chat_application/model/ChatMessage.class
+com/chat_application/chat_application/config/WebSocketConfig.class
+com/chat_application/chat_application/ChatApplication.class
+com/chat_application/chat_application/model/Message.class
+com/chat_application/chat_application/repository/MessageRepository.class
